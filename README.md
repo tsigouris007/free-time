@@ -1,2 +1,3 @@
-# free-time
-This repo includes some funny / free-time / misc scripts that you might like
+# Iakove + Thymio
+
+![Gamath](https://raw.githubusercontent.com/tsigouris007/free-time/iakove_gamath/img/gamath-tsili.gif)
